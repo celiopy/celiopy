@@ -1,8 +1,8 @@
-### Oi devs 👋
+<h3 align="center">Oi devs 👋</h3>
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
-
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right">
+- 🔭 Desenvolvedor full-stack para Web
+- 🌱 Aprendendo **Nim**
+- 💬 Me pergunte sobre **Javascript**, **PHP** or **Linux**
 
 ```js
  const celiopy = () => {
